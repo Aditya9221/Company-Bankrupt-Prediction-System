@@ -58,7 +58,7 @@ Accuracy was used only as a **secondary metric**.
 
 ---
 
-# 🔍 Key Insights
+# Key Insights
 - Handling class imbalance significantly improved model recall
 - Tree-based models captured non-linear financial risk patterns better
 - Feature scaling improved the stability of Logistic Regression
